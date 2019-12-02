@@ -1,3 +1,2 @@
-Новая строка в Хеллоу
-new line
-Hello world. 3pm
+Hello,world! 2 pm
+>>>>>>> first
